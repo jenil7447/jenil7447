@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **React , express,springboot**
+- 🌱 I’m currently learning **React , express,**
 
 - 📫 How to reach me **jenil7447@gmail.com**
 
