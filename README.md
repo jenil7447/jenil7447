@@ -134,13 +134,13 @@ const jenil = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeniljethva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jenil7447&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniljethva&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenil7447&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeniljethva&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jenil7447&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
